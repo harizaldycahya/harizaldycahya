@@ -5,7 +5,7 @@
 - 🗿 My role model is Garox 
 - 🗿 I'm also like game development
 
-<img align="left" alt="Harizaldy's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=harizaldycahya&show_icons=true&hide_border=true" />
+<img align="left" alt="Harizaldy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harizaldycahya&show_icons=true&hide_border=true" />
 <br />
 
 ### Languages and Tools:
