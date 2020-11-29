@@ -1,5 +1,5 @@
 ## I'm Harizaldy a Normal Infomatics Student 🕴️
-<img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/HTVeYVXjLiunFlUOeu/giphy.gif" />
+<img align="right" alt="GIF" height="225px" src="https://media.giphy.com/media/HTVeYVXjLiunFlUOeu/giphy.gif" />
 
 - 🗿 I get Klee recently
 - 🗿 I’m mostly using laravel 
