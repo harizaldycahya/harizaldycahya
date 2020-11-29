@@ -1,7 +1,7 @@
 ## I'm Harizaldy a Normal Infomatics Student 🕴️
 <img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/HTVeYVXjLiunFlUOeu/giphy.gif" />
 
-- 🗿 I get klee recently
+- 🗿 I get Klee recently
 - 🗿 I’m mostly using laravel 
 - 🗿 And currently learning Vue as well 
 - 🗿 My role model is Garox 
