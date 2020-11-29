@@ -1,11 +1,11 @@
 ## I'm Harizaldy a Normal Infomatics Student 🕴️
 <img align="right" alt="GIF" height="155px" src="https://media.giphy.com/media/HTVeYVXjLiunFlUOeu/giphy.gif" />
 
-- 🗿 I got Klee recently 
-- 🗿 I’m mostly using laravel 
-- 🗿 And currently learning Vue as well 
+- 🗿 I got Klee recently
+- 🗿 I'm mostly using laravel 
+- 🗿 Currently learning Vue js as well 
 - 🗿 My role model is Garox 
-- 🗿 I'm also like game development
+- 🗿 And I Like game development also
 
 <img align="left" alt="Harizaldy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harizaldycahya&show_icons=true&hide_border=true" />
 <br />
