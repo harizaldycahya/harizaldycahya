@@ -44,6 +44,9 @@ hobby: "Badminton"
   <a href="https://www.mysql.com/">
   <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
+    <a href="https://www.mysql.com/">
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
 </div>
 
 
@@ -53,21 +56,23 @@ hobby: "Badminton"
 <div class="column">
   <h2 align=left>Framework & Libraries</h2>
   <div align=left>
-    
-  <a href="https://getbootstrap.com/">
-    <img src="https://skillicons.dev/icons?i=bootstrap" />
-  </a>
   <a href="https://laravel.com/">
     <img src="https://skillicons.dev/icons?i=laravel" />
-  </a>
-  <a href="https://tailwindcss.com/">
-    <img src="https://skillicons.dev/icons?i=tailwind" />
   </a>
   <a href="https://reactjs.org/">
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
   <a href="https://nextjs.org/">
     <img src="https://skillicons.dev/icons?i=nextjs" />
+  </a>
+  <a href="https://nextjs.org/">
+    <img src="https://skillicons.dev/icons?i=expressjs" />
+  </a>
+  <a href="https://getbootstrap.com/">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
   </a>
   </div>
 </div>
@@ -80,12 +85,13 @@ hobby: "Badminton"
 <div>
 <h2 align=left>Social Media</h2>
   <div align=left>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/harizaldycahyapratama/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="#">
+  <a href="https://x.com/zaldypratama83">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
+    
   </div>
 </div>  
 
