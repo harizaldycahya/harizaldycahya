@@ -37,8 +37,7 @@ cepat, scalable, dan mudah dipelihara — dari database sampai UI.
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harizaldycahya&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harizaldycahya&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-stats.as93.net/api?username=harizaldycahya&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=harizaldycahya&theme=tokyonight&hide_border=true)
 
