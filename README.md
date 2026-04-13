@@ -36,11 +36,6 @@ cepat, scalable, dan mudah dipelihara — dari database sampai UI.
 ---
 
 ### 📊 GitHub Stats
-
-![GitHub Stats](https://readme-stats.clumn.com/api?username=harizaldycahya&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://readme-stats.clumn.com/api/top-langs/?username=harizaldycahya&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=harizaldycahya&theme=tokyonight&hide_border=true)
 
 ---
