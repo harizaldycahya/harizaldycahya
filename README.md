@@ -6,7 +6,7 @@ cepat, scalable, dan mudah dipelihara — dari database sampai UI.
 - 📍 Jakarta, Indonesia
 - 💼 Terbuka untuk kolaborasi & freelance
 - 🌱 Sedang belajar: Docker & CI/CD
-- 📫 Hubungi saya: **email@kamu.com**
+- 📫 Hubungi saya: **zaldypratama83@gmail.com**
 
 ---
 
